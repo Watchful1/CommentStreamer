@@ -9,6 +9,7 @@ verify_ssl = true
 discord-logging = {git = "https://github.com/Watchful1/DiscordLogging.git"}
 asyncpraw = "*"
 requests = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
